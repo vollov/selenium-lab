@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.teig.test.intgration.framework.RegionManager>
+	<regions>
+		<org.demo.selenium.base.Region>
+			<name>local</name>
+			<url> https://bac/action.do</url>
+			<username>aaa</username>
+			<password>xxx</password>
+		</org.demo.selenium.base.Region>
+	</regions>
+</com.teig.test.intgration.framework.RegionManager>
