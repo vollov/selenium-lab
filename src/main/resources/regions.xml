@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<com.teig.test.intgration.framework.RegionManager>
+<org.demo.selenium.base.RegionManager>
 	<regions>
 		<org.demo.selenium.base.Region>
 			<name>local</name>
@@ -8,4 +8,4 @@
 			<password>xxx</password>
 		</org.demo.selenium.base.Region>
 	</regions>
-</com.teig.test.intgration.framework.RegionManager>
+</org.demo.selenium.base.RegionManager>
